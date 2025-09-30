@@ -10,4 +10,4 @@ It is a responsive homepage for the fictional client **Hair Day**, featuring:
 - Footer with logo and copyright
 
 ## Live Demo
-[View on GitHub Pages](https://muskkan-akram.github.io/hair-day-homepage/)
+[View on GitHub Pages](https://muskan-akram.github.io/responsive-homepage-hair-day/)
